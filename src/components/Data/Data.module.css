@@ -1,0 +1,14 @@
+.info {
+    padding: 5px;
+    border-top: 2px solid;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    width: 15px;
+    cursor: pointer;
+}
